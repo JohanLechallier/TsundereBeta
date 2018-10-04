@@ -1,0 +1,22 @@
+Document d'intégration :
+
+-----------------------------------------------------------
+Elements bleu            |      #5ca1f1
+Fond gris                |      #f5f5f5
+Titre banc               |      Arial 55px #fff
+Titre gris bordure bleu  |      Arial 55px #333
+Titre gris 2ème niveau   |      Arial 28px #333333
+Texte gris               |      Arial #7b7b7b 16px
+
+
+Fonds blocks             |      toute la largeur de l'écran
+footer / header / block1 |      1400px max
+Contenu principal        |      1210px max
+
+TCHAT TWITCH
+
+<div id="chat" class="hidden-lg-down" style="height: 492.281px;">
+            <iframe src="http://www.twitch.tv/embed/lestream/chat">
+            </iframe>
+        </div>
+<iframe src="https://www.twitch.tv/embed/tsunderetemari/chat" frameborder="0" scrolling="no" height="500" width="350"></iframe>
